@@ -1,12 +1,35 @@
-## Hi there 👋
+# Hello World! Gabriel aqui!
 
-Here are some ideas to get you started:
+Desenvolvedor de software com paixão por tecnologia, inovação e aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Sobre Mim
+
+Sou um desenvolvedor de software com experiência em C# e Angular JS. Adoro resolver problemas complexos, aprender novas tecnologias e colaborar em projetos interessantes. Atualmente, estou focado em desenvolvimento de APIs em ASP.NET Core com Blazor e Bootstrap.
+
+## Habilidades
+
+- **Linguagens de Programação:**
+          <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+          <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+          <img align="center" alt="Douglas4GR_Icon" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
+
+- **Frameworks e Bibliotecas:**
+        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />
+        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+- **Outras Habilidades:**
+        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
+        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" />
+        
+## Estatísticas e Linguagens Mais Usadas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielSCamelo&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSCamelo&layout=compact&theme=radical)
+
+---
+
+Obrigado por visitar meu perfil! Vamos nos conectar e colaborar em projetos incríveis.
