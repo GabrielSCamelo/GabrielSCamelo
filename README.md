@@ -1,10 +1,14 @@
 # Hello World! Gabriel aqui!
 
 Desenvolvedor de software com paixão por tecnologia, inovação e aprendizado contínuo.
-
+        
 ## Sobre Mim
 
 Sou um desenvolvedor de software com experiência em C# e Angular JS. Adoro resolver problemas complexos, aprender novas tecnologias e colaborar em projetos interessantes. Atualmente, estou focado em desenvolvimento de APIs em ASP.NET Core com Blazor e Bootstrap.
+
+<a href="https://www.linkedin.com/in/gabrielscamelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank"></a>
+<a href = "mailto:gabriel.s.camelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 ## Habilidades
 
